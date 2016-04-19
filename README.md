@@ -15,7 +15,9 @@ Step 2 : Install Composer dependency
 Step 3 : Register the Service Provider
 
   Abhitheawesomecoder\Laraveleditprofile\EditprofileServiceProvider::class,
+  
   Abhitheawesomecoder\Profilepic\ProfilepicServiceProvider::class,
+  
   Abhitheawesomecoder\Jobboard\JobboardServiceProvider::class
 
 to providers array in *config/app.php*
