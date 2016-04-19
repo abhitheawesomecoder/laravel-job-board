@@ -22,9 +22,11 @@ Step 3 : Register the Service Provider
 
 to providers array in *config/app.php*
 
+Step 4 : Install views and migrations
+
 run the following command: 'php artisan vendor:publish' you can override the views under the folder: 'views/vendor/abhitheawesomecoder/jobboard' 
 
-Step 4 : Run Migration
+Step 5 : Run Migration
 
 php artisan migrate
 
