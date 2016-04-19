@@ -28,6 +28,8 @@ php artisan migrate
 
 ## Usage
 
+Go to link http://localhost/pack/public/edit-profile
+
 Go to link http://localhost/laravel/public/recruiters
 
 Go to link http://localhost/laravel/public/job-seekers
